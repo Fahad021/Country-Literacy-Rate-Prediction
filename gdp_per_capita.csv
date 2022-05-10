@@ -1,0 +1,262 @@
+"","country_name","gdp_per_capita"
+"1","Afghhanistan",516.7478708
+"2","Africa Eastern and Southern",1359.618224
+"3","Africa Western and Central",1710.073363
+"4","Albania",5246.292306
+"5","Algeria",3306.858208
+"6","American Samoa",12844.90099
+"7","Andorra",40897.33087
+"8","Angola",1776.166868
+"9","Antigua and Barbuda",NA
+"10","Arab World",5612.68657
+"11","Argentina",8579.017773
+"12","Armenia",4266.018074
+"13","Aruba",30253.27936
+"14","Australia",51692.84275
+"15","Austria",48586.80132
+"16","Azerbaijan",4221.407478
+"17","Bahamas, The",25194.02514
+"18","Bahrain",20409.9528
+"19","Bangladesh",1961.613749
+"20","Barbados",NA
+"21","Belarus",6424.152176
+"22","Belgium",45159.34822
+"23","Belize",4115.177008
+"24","Benin",1291.040972
+"25","Bermuda",107079.4798
+"26","Bhutan",3000.779327
+"27","Bolivia",3133.099803
+"28","Bosnia and Herzegovina",6079.738285
+"29","Botswana",6404.899932
+"30","Brazil",6796.844542
+"31","Brunei Darussalam",27442.95383
+"32","Bulgaria",10079.20338
+"33","Burkina Faso",857.9327297
+"34","Burundi",238.9907259
+"35","Cabo Verde",3064.272388
+"36","Cambodia",1543.669258
+"37","Cameroon",1537.130218
+"38","Canada",43294.64816
+"39","Caribbean small states",8873.521929
+"40","Cayman Islands",85082.52686
+"41","Central African Republic",492.7958712
+"42","Central Europe and the Baltics",16168.19665
+"43","Chad",659.270045
+"44","Channel Islands",74458.79467
+"45","Chile",13231.70421
+"46","China",10434.77519
+"47","Colombia",5334.556042
+"48","Comoros",1420.661747
+"49","Congo, Dem. Rep.",543.9503925
+"50","Congo, Rep.",1846.131297
+"51","Costa Rica",12140.85415
+"52","Cote d'Ivoire",2325.723705
+"53","Croatia",14134.16268
+"54","Cuba",9477.852873
+"55","Curacao",16745.72431
+"56","Cyprus",27527.84531
+"57","Czech Republic",22931.2746
+"58","Denmark",61063.31643
+"59","Djibouti",3425.484176
+"60","Dominica",7003.859021
+"61","Dominican Republic",7268.19691
+"62","Early-demographic dividend",3201.652532
+"63","East Asia & Pacific",11477.79259
+"64","East Asia & Pacific (excluding high income)",8254.670871
+"65","East Asia & Pacific (IDA & IBRD countries)",8346.03881
+"66","Ecuador",5600.389615
+"67","Egypt, Arab Rep.",3569.206841
+"68","El Salvador",3798.636521
+"69","Equatorial Guinea",7143.238705
+"70","Eritrea",642.5082588
+"71","Estonia",23027.027
+"72","Eswatini",3424.282212
+"73","Ethiopia",936.3404611
+"74","Euro area",37967.80187
+"75","Europe & Central Asia",23955.30516
+"76","Europe & Central Asia (excluding high income)",7668.524344
+"77","Europe & Central Asia (IDA & IBRD countries)",8387.390693
+"78","European Union",34148.9199
+"79","Faroe Islands",64225.2649
+"80","Fiji",5057.631913
+"81","Finland",48744.98813
+"82","Fragile and conflict affected situations",1622.216976
+"83","France",39030.36037
+"84","French Polynesia",14324.11866
+"85","Gabon",6881.715192
+"86","Gambia, The",773.0020701
+"87","Georgia",4266.690795
+"88","Germany",46208.42947
+"89","Ghana",2205.529016
+"90","Greece",17622.541
+"91","Greenland",53041.30331
+"92","Grenada",9261.551876
+"93","Guam",34624.34013
+"94","Guatemala",4603.339617
+"95","Guinea",1194.037865
+"96","Guinea-Bissau",727.5201717
+"97","Guyana",6955.939217
+"98","Haiti",1272.367992
+"99","Heavily indebted poor countries (HIPC)",968.6904998
+"100","High income",44003.41371
+"101","Honduras",2389.012431
+"102","Hong Kong SAR, China",46323.86344
+"103","Hungary",15980.74089
+"104","IBRD only",6149.361544
+"105","Iceland",59270.18005
+"106","IDA & IBRD total",4891.090255
+"107","IDA blend",1674.917871
+"108","IDA only",1126.932467
+"109","IDA total",1310.67516
+"110","India",1927.707823
+"111","Indonesia",3869.588427
+"112","Iran, Islamic Rep.",2422.480657
+"113","Iraq",4145.862936
+"114","Ireland",85267.76474
+"115","Isle of Man",86481.55259
+"116","Israel",44168.94364
+"117","Italy",31714.22095
+"118","Jamaica",4664.530242
+"119","Japan",40193.25244
+"120","Jordan",4282.765825
+"121","Kazakhstan",9122.23343
+"122","Kenya",1878.580703
+"123","Kiribati",1653.540297
+"124","Kosovo",4346.637931
+"125","Kuwait",24811.76971
+"126","Kyrgyz Republic",1173.611304
+"127","Lao PDR",2629.714583
+"128","Late-demographic dividend",9683.425159
+"129","Latin America & Caribbean",7244.659419
+"130","Latin America & Caribbean (excluding high income)",6779.199717
+"131","Latin America & the Caribbean (IDA & IBRD countries)",7035.753075
+"132","Latvia",17726.25294
+"133","Least developed countries: UN classification",1053.752571
+"134","Lebanon",4649.547646
+"135","Lesotho",875.353433
+"136","Liberia",632.9363856
+"137","Libya",3699.294765
+"138","Liechtenstein",175813.8756
+"139","Lithuania",20233.64135
+"140","Low & middle income",4754.8241
+"141","Low income",691.1683328
+"142","Lower middle income",2217.214884
+"143","Luxembourg",116014.6025
+"144","Macao SAR, China",39403.13591
+"145","Madagascar",471.4914963
+"146","Malawi",636.8205368
+"147","Malaysia",10412.34898
+"148","Maldives",6924.105745
+"149","Mali",862.4530188
+"150","Malta",27884.64283
+"151","Marshall Islands",4129.850998
+"152","Mauritania",1701.991163
+"153","Mauritius",8627.843157
+"154","Mexico",8329.271313
+"155","Micronesia, Fed. Sts.",3565.293294
+"156","Middle East & North Africa",6534.395623
+"157","Middle East & North Africa (excluding high income)",3018.433655
+"158","Middle East & North Africa (IDA & IBRD countries)",3015.703551
+"159","Middle income",5216.947891
+"160","Moldova",4547.059721
+"161","Monaco",173688.1894
+"162","Mongolia",4060.950518
+"163","Montenegro",7677.152226
+"164","Morocco",3058.691689
+"165","Mozambique",448.5442807
+"166","Myanmar",1467.604281
+"167","Namibia",4179.278066
+"168","Nauru",10580.26819
+"169","Nepal",1155.142854
+"170","Netherlands",52397.11671
+"171","New Caledonia",34788.52928
+"172","New Zealand",41441.46667
+"173","Nicaragua",1905.261152
+"174","Niger",567.6698923
+"175","Nigeria",2097.092473
+"176","North America",61502.09595
+"177","North Macedonia",5917.262575
+"178","Northern Mariana Islands",20659.64029
+"179","Norway",67329.67779
+"180","OECD members",38218.87237
+"181","Oman",14485.38612
+"182","Other small states",11766.97374
+"183","Pacific island small states",3768.543357
+"184","Pakistan",1188.859757
+"185","Palau",14243.86469
+"186","Panama",12509.83529
+"187","Papua New Guinea",2757.21753
+"188","Paraguay",5001.07276
+"189","Peru",6126.87454
+"190","Philippines",3298.829586
+"191","Poland",15720.99466
+"192","Portugal",22176.29671
+"193","Post-demographic dividend",44475.18917
+"194","Pre-demographic dividend",1332.049211
+"195","Puerto Rico",32290.92114
+"196","Qatar",50124.38594
+"197","Romania",12896.08862
+"198","Russian Federation",10126.72179
+"199","Rwanda",797.8555207
+"200","Samoa",4067.843459
+"201","San Marino",47731.20854
+"202","Sao Tome and Principe",2157.840446
+"203","Saudi Arabia",20110.31619
+"204","Senegal",1471.830962
+"205","Serbia",7720.510572
+"206","Seychelles",10764.42042
+"207","Sierra Leone",509.376594
+"208","Singapore",59797.75218
+"209","Sint Maarten (Dutch part)",29160.10381
+"210","Slovak Republic",19266.51357
+"211","Slovenia",25517.33067
+"212","Small states",10770.58978
+"213","Solomon Islands",2250.601164
+"214","Somalia",438.2551656
+"215","South Africa",5655.867654
+"216","South Asia",1823.712912
+"217","South Asia (IDA & IBRD)",1823.712912
+"218","South Korea",31631.46945
+"219","South Sudan",1119.651437
+"220","Spain",27063.19392
+"221","Sri Lanka",3680.673477
+"222","St. Kitts and Nevis",18437.74892
+"223","St. Lucia",8804.561048
+"224","St. Vincent and the Grenadines",NA
+"225","Sub-Saharan Africa",1501.152921
+"226","Sub-Saharan Africa (excluding high income)",1500.349997
+"227","Sub-Saharan Africa (IDA & IBRD countries)",1501.152921
+"228","Sudan",486.4188163
+"229","Suriname",4916.605666
+"230","Sweden",52274.40879
+"231","Switzerland",87097.03645
+"232","Syrian Arab Republic",1334.370593
+"233","Tajikistan",859.1379611
+"234","Tanzania",1076.469706
+"235","Thailand",7186.874092
+"236","Timor-Leste",1442.730738
+"237","Togo",914.9507925
+"238","Tonga",4624.823449
+"239","Trinidad and Tobago",15425.63511
+"240","Tunisia",3521.591948
+"241","Turkey",8536.43332
+"242","Turkmenistan",7612.03518
+"243","Turks and Caicos Islands",23879.92665
+"244","Tuvalu",4143.109753
+"245","Uganda",822.0276815
+"246","Ukraine",3724.938437
+"247","United Arab Emirates",36284.55524
+"248","United Kingdom",41059.16881
+"249","United States",63593.44362
+"250","Upper middle income",9177.840437
+"251","Uruguay",15438.41167
+"252","Uzbekistan",1750.697113
+"253","Vanuatu",2870.0893
+"254","Venezuela, RB",16055.64532
+"255","Vietnam",2785.724161
+"256","Virgin Islands (U.S.)",38136.66576
+"257","West Bank and Gaza",3239.731108
+"258","World",10918.72283
+"259","Yemen, Rep.",758.1452416
+"260","Zambia",985.132436
+"261","Zimbabwe",1214.50982
