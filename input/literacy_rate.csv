@@ -1,0 +1,205 @@
+"","country_name","literacy_rate"
+"1","Afghanistan",0.1701783943
+"2","Albania",0.9776112366
+"3","Algeria",0.7532296753
+"4","Angola",0.534072113
+"5","Antigua and Barbuda",0.9941999817
+"6","Arab World",0.6619689941
+"7","Argentina",0.9906204224
+"8","Armenia",0.9974450684
+"9","Aruba",0.9781268311
+"10","Azerbaijan",0.9972675323
+"11","Bahrain",0.8901043701
+"12","Bangladesh",0.7200478363
+"13","Barbados",0.9959999847
+"14","Belarus",0.9987651062
+"15","Belize",0.7712272644
+"16","Benin",0.3107164955
+"17","Bhutan",0.5708361816
+"18","Bolivia",0.8858286285
+"19","Bosnia and Herzegovina",0.9491049194
+"20","Botswana",0.8745121002
+"21","Brazil",0.9342507172
+"22","Brunei Darussalam",0.963012619
+"23","Bulgaria",0.9798390198
+"24","Burkina Faso",0.3104408073
+"25","Burundi",0.6122369003
+"26","Cabo Verde",0.8204222107
+"27","Cambodia",0.7503386688
+"28","Cameroon",0.7158627319
+"29","Caribbean small states",0.9306014252
+"30","Cayman Islands",0.9902147675
+"31","Central African Republic",0.2575638008
+"32","Central Europe and the Baltics",0.9870231628
+"33","Chad",0.1395522976
+"34","Chile",0.9633402252
+"35","China",0.9515933228
+"36","Colombia",0.9587506104
+"37","Comoros",0.5295639038
+"38","Congo, Dem. Rep.",0.6649997711
+"39","Congo, Rep.",0.7461875916
+"40","Costa Rica",0.9792443085
+"41","Cote d'Ivoire",0.8674124908
+"42","Croatia",0.9866590881
+"43","Cuba",0.9979988098
+"44","Cyprus",0.981162262
+"45","Dominican Republic",0.9376412964
+"46","Early-demographic dividend",0.7482480621
+"47","East Asia & Pacific",0.9439044952
+"48","East Asia & Pacific (excluding high income)",0.9463996124
+"49","East Asia & Pacific (IDA & IBRD countries)",0.9457164001
+"50","Ecuador",0.92490242
+"51","Egypt, Arab Rep.",0.6550569153
+"52","El Salvador",0.8731858826
+"53","Equatorial Guinea",0.906760788
+"54","Eritrea",0.6894618988
+"55","Estonia",0.9990947723
+"56","Eswatini",0.8854268646
+"57","Ethiopia",0.4442338181
+"58","Europe & Central Asia",0.9801039886
+"59","Europe & Central Asia (excluding high income)",0.9861837769
+"60","Europe & Central Asia (IDA & IBRD countries)",0.9859620667
+"61","Fragile and conflict affected situations",0.5675857925
+"62","Gabon",0.8342397308
+"63","Gambia, The",0.4157701874
+"64","Georgia",0.9945179749
+"65","Ghana",0.7447438812
+"66","Greece",0.9739409637
+"67","Grenada",0.9859999847
+"68","Guam",0.993085022
+"69","Guatemala",0.7672338104
+"70","Guinea",0.276925602
+"71","Guinea-Bissau",0.3076851082
+"72","Guyana",0.8503460693
+"73","Haiti",0.5830052185
+"74","Heavily indebted poor countries (HIPC)",0.5634822083
+"75","Honduras",0.8873169708
+"76","Hungary",0.9909999847
+"77","IBRD only",0.8654943085
+"78","IDA & IBRD total",0.8069199371
+"79","IDA blend",0.5876726151
+"80","IDA only",0.6054933167
+"81","IDA total",0.6015475845
+"82","India",0.6579080963
+"83","Indonesia",0.9455235291
+"84","Iran, Islamic Rep.",0.8078743744
+"85","Iraq",0.7990000153
+"86","Israel",0.8867472076
+"87","Italy",0.989719162
+"88","Jamaica",0.9269999695
+"89","Jordan",0.9783207703
+"90","Kazakhstan",0.9973899078
+"91","Kenya",0.781889267
+"92","Kuwait",0.9535169983
+"93","Kyrgyz Republic",0.9949971771
+"94","Lao PDR",0.7939103699
+"95","Late-demographic dividend",0.9527838135
+"96","Latin America & Caribbean",0.9406754303
+"97","Latin America & Caribbean (excluding high income)",0.9393205261
+"98","Latin America & the Caribbean (IDA & IBRD countries)",0.9396327972
+"99","Latvia",0.9990640259
+"100","Least developed countries: UN classification",0.5900613022
+"101","Lebanon",0.9330500793
+"102","Lesotho",0.8493489075
+"103","Liberia",0.3409225845
+"104","Libya",0.7780000305
+"105","Lithuania",0.9983323669
+"106","Low & middle income",0.8054428864
+"107","Low income",0.5407807922
+"108","Lower middle income",0.6996179199
+"109","Macao SAR, China",0.9503256989
+"110","Madagascar",0.7507057953
+"111","Malawi",0.5520410919
+"112","Malaysia",0.9364668274
+"113","Maldives",0.9811470795
+"114","Mali",0.2207847023
+"115","Malta",0.9598872375
+"116","Marshall Islands",0.9820298004
+"117","Mauritania",0.4335438919
+"118","Mauritius",0.8936637878
+"119","Mexico",0.9449513245
+"120","Middle East & North Africa",0.7319931793
+"121","Middle East & North Africa (excluding high income)",0.7035214233
+"122","Middle East & North Africa (IDA & IBRD countries)",0.7005406952
+"123","Middle income",0.8301712799
+"124","Moldova",0.9914041901
+"125","Mongolia",0.9924108887
+"126","Montenegro",0.9827134705
+"127","Morocco",0.6459137726
+"128","Mozambique",0.5029513931
+"129","Myanmar",0.8626860809
+"130","Namibia",0.9143643188
+"131","Nepal",0.5972443008
+"132","New Caledonia",0.975
+"133","Nicaragua",0.8277935028
+"134","Niger",0.2664999962
+"135","Nigeria",0.5265647888
+"136","North Macedonia",0.9760762024
+"137","Oman",0.9269399261
+"138","Other small states",0.8292002869
+"139","Pacific island small states",0.8917031097
+"140","Pakistan",0.4649003983
+"141","Palau",0.9634014893
+"142","Panama",0.9535887909
+"143","Papua New Guinea",0.5790000153
+"144","Paraguay",0.9418141174
+"145","Peru",0.9201902771
+"146","Philippines",0.9685243225
+"147","Poland",0.9825198364
+"148","Portugal",0.950725174
+"149","Pre-demographic dividend",0.556928215
+"150","Puerto Rico",0.9239002228
+"151","Qatar",0.947115097
+"152","Romania",0.9859976959
+"153","Russian Federation",0.9973410797
+"154","Rwanda",0.6939453888
+"155","Samoa",0.9924504089
+"156","Sao Tome and Principe",0.8951573181
+"157","Saudi Arabia",0.9604924774
+"158","Senegal",0.397985611
+"159","Serbia",0.9911560822
+"160","Seychelles",0.9635019684
+"161","Sierra Leone",0.3485203171
+"162","Singapore",0.96134758
+"163","Slovenia",0.9959999847
+"164","Small states",0.8544445801
+"165","Solomon Islands",0.69
+"166","Somalia",0.03687170029
+"167","South Africa",0.9453317261
+"168","South Asia",0.6555431366
+"169","South Asia (IDA & IBRD)",0.6555431366
+"170","South Korea",0.9761865997
+"171","South Sudan",0.2886425972
+"172","Spain",0.9818704224
+"173","Sri Lanka",0.9158087158
+"174","St. Vincent and the Grenadines",0.955
+"175","Sub-Saharan Africa",0.5941519928
+"176","Sub-Saharan Africa (excluding high income)",0.5936135101
+"177","Sub-Saharan Africa (IDA & IBRD countries)",0.5941519928
+"178","Sudan",0.5606322861
+"179","Suriname",0.9271205902
+"180","Syrian Arab Republic",0.736265564
+"181","Tajikistan",0.9969999695
+"182","Tanzania",0.7309382629
+"183","Thailand",0.9242855835
+"184","Timor-Leste",0.642109375
+"185","Togo",0.5505149841
+"186","Tonga",0.9947502899
+"187","Trinidad and Tobago",0.9830000305
+"188","Tunisia",0.7222377014
+"189","Turkey",0.9442404175
+"190","Turkmenistan",0.9959999847
+"191","Uganda",0.7083805847
+"192","Ukraine",0.9995819855
+"193","United Arab Emirates",0.9686031342
+"194","Upper middle income",0.9452037048
+"195","Uruguay",0.9903526306
+"196","Uzbekistan",0.9999994659
+"197","Vanuatu",0.8670609283
+"198","Venezuela, RB",0.9721370697
+"199","Vietnam",0.9456565857
+"200","West Bank and Gaza",0.9620166779
+"201","World",0.8329759979
+"202","Yemen, Rep.",0.35
+"203","Zambia",0.8308344269
+"204","Zimbabwe",0.8828382874
